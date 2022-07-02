@@ -40,6 +40,6 @@ enviar un correo al administrador de la red con la siguiente información:
 
 ## CONTENIDO DEL PROYECTO 
 * Dentro de la carpeta [ProyectoRedes3](https://github.com/JAntonioMoraG/SISTEMA-DE-ADMINISTRACION-DE-RED/tree/main/ProyectoRedes3) se encuentra la topologia de red realizada en el programa GNS3, la topología ya esta configurada.
-* El archivo [proyecto.py](https://github.com/JAntonioMoraG/SISTEMA-DE-ADMINISTRACION-DE-RED/blob/main/proyecto.py) 
+* El archivo [proyecto.py](https://github.com/JAntonioMoraG/SISTEMA-DE-ADMINISTRACION-DE-RED/blob/main/proyecto.py) es el script para realizar el monitoreo, el codigo esta escrito en python y es de mi autoria
 * Si quieres leer el reporte completo del proyecto da clic [aqui](https://github.com/JAntonioMoraG/SISTEMA-DE-ADMINISTRACION-DE-RED/blob/main/Proyecto_FinalMGJA.pdf)
 
